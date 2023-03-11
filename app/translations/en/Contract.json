@@ -1,0 +1,11 @@
+{
+  "app.containers.Contract.list": "List",
+  "app.containers.Contract.typeCustomer": "Customer contract",
+  "app.containers.Contract.typeSupplier": "Supplier contract",
+  "app.containers.Contract.typeContract": "Type of contract",
+  "app.containers.Contract.contractPrinciples": "Contract principles",
+  "app.containers.Contract.seasonalContract": "Seasonal contract",
+  "app.containers.Contract.listOfContract": "List of contract",
+  "app.containers.Contract.serviceCycle": "Service cycle",
+  "app.containers.Contract.contractExpired": "Contract expired"
+}

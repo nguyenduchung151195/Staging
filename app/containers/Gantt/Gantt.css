@@ -1,0 +1,213 @@
+.gantt-container {
+  height: calc(100vh - 40px - 200px);
+}
+
+.gantt_grid_scale .gantt_grid_head_cell,
+.gantt_task .gantt_task_scale .gantt_scale_cell {
+  font-weight: bold;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.resource_marker {
+  text-align: center;
+}
+
+.resource_marker div {
+  width: 28px;
+  height: 28px;
+  line-height: 29px;
+  display: inline-block;
+  border-radius: 15px;
+  color: #fff;
+  margin: 3px;
+}
+
+.resource_marker.workday_ok div {
+  background: #51c185;
+}
+
+.resource_marker.workday_over div {
+  background: #ff8686;
+}
+
+.owner-label {
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  font-size: 12px;
+  display: inline-block;
+  border: 1px solid #cccccc;
+  border-radius: 25px;
+  background: #e6e6e6;
+  color: #6f6f6f;
+  margin: 0 3px;
+  font-weight: bold;
+}
+
+.gantt_tooltip {
+  font-size: 13px;
+  line-height: 16px;
+}
+
+.meeting_task {
+  border: 2px solid #bfc518;
+  color: #6ba8e3;
+  background: #f2f67e;
+}
+
+.meeting_task .gantt_task_progress {
+  background: #d9df29;
+}
+
+.gantt_task_progress {
+  text-align: left;
+  padding-left: 10px;
+  box-sizing: border-box;
+  color: white;
+  font-weight: bold;
+  z-index: 100;
+}
+
+/* .gantt_task_line, .gantt_line_wrapper {
+  margin-top: -9px;
+}
+.gantt_side_content {
+  margin-bottom: 7px;
+}
+.gantt_task_link .gantt_link_arrow {
+  margin-top: -12px
+}
+.gantt_side_content.gantt_right {
+  bottom: 0;
+}
+.baseline {
+  position: absolute;
+  border-radius: 2px;
+  opacity: 0.6;
+  margin-top: -7px;
+  height: 12px;
+  background: #ffd180;
+  border: 1px solid rgb(255,153,0);
+} */
+/* .gantt_dependent_task {
+  height: 20px !important;
+} */
+/* STYLE CHO PROJECT */
+/* .custom-project {
+  position: absolute;
+  height: 6px;
+  color: #ffffff;
+  background-color: #444444;
+}
+
+.custom-project div {
+  position: absolute;
+}
+
+.project-left,
+.project-right {
+  top: 6px;
+  background-color: transparent;
+  border-style: solid;
+  width: 0px;
+  height: 0px;
+}
+
+.project-left {
+  left: 0px;
+  border-width: 0px 0px 8px 7px;
+  border-top-color: transparent;
+  border-right-color: transparent !important;
+  border-bottom-color: transparent !important;
+  border-left-color: #444444 !important;
+}
+
+.project-right {
+  right: 0px;
+  border-width: 0px 7px 8px 0px;
+  border-top-color: transparent;
+  border-right-color: #444444;
+  border-bottom-color: transparent !important;
+  border-left-color: transparent;
+}
+
+.project-line {
+  font-weight: bold;
+}
+
+.gantt_task_line,
+.gantt_line_wrapper div {
+  background-color: blue;
+  border-color: blue;
+  border-radius: 0;
+}
+
+.gantt_link_arrow {
+  border-color: blue;
+}
+
+.gantt_task_link:hover .gantt_line_wrapper div {
+  box-shadow: 0 0 5px 0px #9fa6ff;
+}
+
+.gantt_task_line .gantt_task_progress {
+  opacity: 0.3;
+  background-color: #444444;
+}
+
+.gantt_grid_data .gantt_cell {
+  border-right: 1px solid #ececec;
+}
+
+.gantt_grid_data .gantt_cell.gantt_last_cell {
+  border-right: none;
+}
+
+.gantt_tree_icon.gantt_folder_open,
+.gantt_tree_icon.gantt_file,
+.gantt_tree_icon.gantt_folder_closed {
+  display: none;
+}
+
+.gantt_task .gantt_task_scale .gantt_scale_cell,
+.gantt_grid_scale .gantt_grid_head_cell {
+  color: #5c5c5c;
+}
+
+.gantt_row,
+.gantt_cell {
+  border-color: #cecece;
+}
+
+.gantt_grid_scale .gantt_grid_head_cell {
+  border-right: 1px solid #cecece !important;
+}
+
+.gantt_grid_scale .gantt_grid_head_cell.gantt_last_cell {
+  border-right: none !important;
+}
+
+.gantt_task_row,
+.gantt_task_cell {
+  border: none;
+}
+
+.weekend {
+  background: #f4f7f4 !important;
+}
+
+.gantt_selected .weekend {
+  background: #fff3a1 !important;
+} */
+
+.no_drag_progress .gantt_task_progress_drag{
+  display:none !important;
+}
+.task-main {
+  width: 70%;
+}
+.gantt_task_progress {
+  text-align: left !important;
+  opacity: 0.8 !important;
+}

@@ -1,0 +1,16 @@
+{
+  "crm.Tax.thue": "Tax",
+  "crm.Tax.cacmucthue": "The tax rates",
+  "crm.Tax.ma": "Code Menmonic",
+  "crm.Tax.mieuta": "Describe",
+  "crm.Tax.ten": "Name",
+  "crm.Tax.themmuc": "Add tax rates",
+  "crm.Tax.cohieuluc": "Effective",
+  "crm.Tax.loaikhachhang": "Customer Type",
+  "crm.Tax.muc": "Level",
+  "crm.Tax.thuetronggia": "Include tax in price:",
+  "crm.Tax.thutuungdung": "The order of the application",
+  "crm.Tax.chondiadiem": "Choose place",
+  "crm.Tax.luu": "Save",
+  "crm.Tax.huy": "Cancel"
+}

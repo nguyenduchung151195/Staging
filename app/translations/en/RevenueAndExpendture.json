@@ -1,0 +1,8 @@
+{
+    "app.container.RevenueAndExpendture.internal" : "Internal",
+    "app.container.RevenueAndExpendture.receipt" : "Receipt",
+    "app.container.RevenueAndExpendture.sell" : "Sell",
+    "app.container.RevenueAndExpendture.advances" : "Advances",
+    "app.container.RevenueAndExpendture.reimbursement" : "Reimbursement",
+    "app.container.RevenueAndExpendture.pay" : "Pay"
+}

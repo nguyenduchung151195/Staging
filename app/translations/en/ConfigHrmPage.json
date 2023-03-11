@@ -1,0 +1,7 @@
+{
+    "app.container.ConfigHrmPage.statetype" : "State type",
+    "app.container.ConfigHrmPage.categorytype" : "Category type",
+    "app.container.ConfigHrmPage.configtimekeeping" : "Config timekeeping",
+    "app.container.ConfigHrmPage.salarylist" : "Salary list",
+    "app.container.ConfigHrmPage.configsalary" : "Config salary"
+}

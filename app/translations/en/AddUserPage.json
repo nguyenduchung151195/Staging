@@ -1,0 +1,15 @@
+{
+    "setting.Employee.employeeCode": "Employee code",
+    "setting.Employee.employeeName": "Employee name",
+    "setting.Employee.phone": "Phone",
+    "setting.Employee.employeeInfo": "Employee Infomation",
+    "setting.Employee.sex": "sex",
+    "setting.Employee.idCard":"ID Card ",
+    "setting.Employee.address":"Adress",
+    "setting.Employee.timeJoin":"Start Work",
+    "setting.Employee.organizationUnit":"Organization Unit Name",
+    "setting.Employee.positions":"Positions",
+    "setting.Employee.note":"Note",
+    "setting.Employee.species":"Species",
+    "setting.Employee.warning":"Fields marked with * are required"
+}

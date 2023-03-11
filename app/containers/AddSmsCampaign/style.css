@@ -1,0 +1,12 @@
+
+.DivappBarSMSCampaign{
+  width: calc(100vw - 260px) !important;
+  z-index: 1030 !important;
+}
+.HearderappBarSMSCampaign{
+ position: unset !important;
+}
+
+/* .BTNQTM{
+  margin-left: 15% !important;
+} */

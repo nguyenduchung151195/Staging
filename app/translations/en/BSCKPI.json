@@ -1,0 +1,14 @@
+{
+    "app.container.BSCKPI.criteriasetcriteria": "Criteria & Set criteria",
+    "app.container.BSCKPI.plan": "Plan",
+    "app.container.BSCKPI.addsetcriteria": "Add set criteria",
+    "app.container.BSCKPI.addcriteria": "Add criteria",
+
+    "app.container.BSCKPI.manageassessmentteam": "Assessment team",
+    "app.container.BSCKPI.manageevaluationprocess": "Evaluation process",
+    "app.container.BSCKPI.manageprocesstype": "process type",
+    "app.container.BSCKPI.reviews": "reviews",
+
+    "app.container.BSCKPI.configkpi": "Configure kpi formula",
+    "app.container.BSCKPI.configkanban": "Configure kanban kpi"
+}

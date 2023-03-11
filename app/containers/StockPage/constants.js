@@ -1,0 +1,40 @@
+/*
+ *
+ * StockPage constants
+ *
+ */
+
+export const DEFAULT_ACTION = 'app/StockPage/DEFAULT_ACTION';
+export const RESET_NOTI = 'app/StockPage/RESET_NOTI';
+
+export const GET_ALL_PRODUCT = 'app/StockPage/GET_ALL_PRODUCT';
+export const GET_ALL_PRODUCT_SUCCESS = 'app/StockPage/GET_ALL_PRODUCT_SUCCESS';
+export const GET_ALL_PRODUCT_FAILED = 'app/StockPage/GET_ALL_PRODUCT_FAILED';
+
+export const GET_ALL_UPPER_LIMIT_PRODUCT = 'app/StockPage/GET_ALL_UPPER_LIMIT_PRODUCT';
+export const GET_ALL_UPPER_LIMIT_PRODUCT_SUCCESS = 'app/StockPage/GET_ALL_UPPER_LIMIT_PRODUCT_SUCCESS';
+export const GET_ALL_UPPER_LIMIT_PRODUCT_FAILED = 'app/StockPage/GET_ALL_UPPER_LIMIT_PRODUCT_FAILED';
+
+export const GET_ALL_LOWER_LIMIT_PRODUCT = 'app/StockPage/GET_ALL_LOWER_LIMIT_PRODUCT';
+export const GET_ALL_LOWER_LIMIT_PRODUCT_SUCCESS = 'app/StockPage/GET_ALL_LOWER_LIMIT_PRODUCT_SUCCESS';
+export const GET_ALL_LOWER_LIMIT_PRODUCT_FAILED = 'app/StockPage/GET_ALL_LOWER_LIMIT_PRODUCT_FAILED';
+
+export const GET_PRODUCT_BY_STOCK = 'app/StockPage/GET_PRODUCT_BY_STOCK';
+export const GET_PRODUCT_BY_STOCK_SUCCESS = 'app/StockPage/GET_PRODUCT_BY_STOCK_SUCCESS';
+export const GET_PRODUCT_BY_STOCK_FAILED = 'app/StockPage/GET_PRODUCT_BY_STOCK_FAILED';
+
+export const GET_ALL_STOCK = 'app/StockPage/GET_ALL_STOCK';
+export const GGET_ALL_STOCK_SUCCESS = 'app/StockPage/GET_ALL_STOCK_SUCCESS';
+export const GET_ALL_STOCK_FAILED = 'app/StockPage/GET_ALL_STOCK_FAILED';
+
+export const EDIT_PRODUCT = 'app/StockPage/EDIT_PRODUCT';
+export const EDIT_PRODUCT_SUCCESS = 'app/StockPage/EDIT_PRODUCT_SUCCESS';
+export const EDIT_PRODUCT_FAILED = 'app/StockPage/EDIT_PRODUCT_FAILED';
+
+export const DELETE_PRODUCT = 'app/StockPage/DELETE_PRODUCT';
+export const DELETE_PRODUCT_SUCCESS = 'app/StockPage/DELETE_PRODUCT_SUCCESS';
+export const DELETE_PRODUCT_FAILED = 'app/StockPage/DELETE_PRODUCT_FAILED';
+
+export const GET_CATEGORY = 'app/StockPage/GET_CATEGORY';
+export const GET_CATEGORY_SUCCESS = 'app/StockPage/GET_CATEGORY_SUCCESS';
+export const GET_CATEGORY_FAILED = 'app/StockPage/GET_CATEGORY_FAILED';

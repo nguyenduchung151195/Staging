@@ -1,0 +1,13 @@
+{
+  "task.TotalTask.list": "List",
+  "task.TotalTask.plan": "Plan",
+  "task.TotalTask.grattchar": "Gantt",
+  "task.TotalTask.timemanagement": "Time Management",
+  "task.TotalTask.selected": "----Selected----",
+  "task.TotalTask.week": "Week",
+  "task.TotalTask.month": "Month",
+  "task.TotalTask.quarter": "Quarter",
+  "task.TotalTask.projectname": "Project name",
+  "task.TotalTask.seaching":"Seaching"
+
+}

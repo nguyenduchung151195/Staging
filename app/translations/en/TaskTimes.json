@@ -1,0 +1,10 @@
+{
+  "task.TaskTimes.khancap": "Emergency",
+  "task.TaskTimes.khongkhancap": "No Emergency",
+  "task.TaskTimes.quantrong": "Important",
+  "task.TaskTimes.khongquantrong": "No Important",
+  "task.TaskTimes.ngaybatdau": "Start day",
+  "task.TaskTimes.ngayketthuc": "End day",
+  "task.TaskTimes.con": "Still",
+  "task.TaskTimes.ngay": "day"
+}

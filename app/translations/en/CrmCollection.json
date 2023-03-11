@@ -1,0 +1,9 @@
+{
+    "app.container.CrmCollection.businessopportunities" : "Business opportunities",
+    "app.container.CrmCollection.exchangeofagreement" : "Exchange of agreement",
+    "app.container.CrmCollection.costestimates" : "Cost estimates",
+    "app.container.CrmCollection.salesquotation" : "Quotation/Sales",
+    "app.container.CrmCollection.contract" : "Contract",
+    "app.container.CrmCollection.bill" : "Bill",
+    "app.container.CrmCollection.purchase" : "Purchase(PO)"
+}

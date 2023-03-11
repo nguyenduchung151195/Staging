@@ -1,0 +1,7 @@
+{
+    "app.container.ConfigHrmPage.statetype" : "Kiểu trạng thái",
+    "app.container.ConfigHrmPage.categorytype" : "Kiểu danh mục",
+    "app.container.ConfigHrmPage.configtimekeeping" : "Cấu hình chấm công",
+    "app.container.ConfigHrmPage.salarylist" : "Danh mục lương",
+    "app.container.ConfigHrmPage.configsalary" : "Cấu hình lương"
+}

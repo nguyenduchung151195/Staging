@@ -1,0 +1,19 @@
+.dividerContainer {
+  margin-left: 40px;
+  margin-right: 32px;
+  position: relative;
+
+  .timelineTitle {
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+.small-tab {
+  min-width: 0px !important;
+  span {
+    padding: 6px !important;
+  }
+}

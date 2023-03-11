@@ -1,0 +1,16 @@
+{
+  "crm.AddCustomerPage.xoa": "Bạn có muốn xóa hàng này không?",
+  "crm.AddCustomerPage.themmoi": "Thêm mới khách hàng",
+  "crm.AddCustomerPage.sua": "Sửa khách hàng",
+  "crm.AddCustomerPage.danhsach": "Danh sách khách hàng",
+  "crm.AddCustomerPage.thongtin": "Thông tin khách hàng",
+  "crm.AddCustomerPage.truongcannhap": "Các trường có dấu * là cần nhập",
+  "crm.AddCustomerPage.chonanh": "Chọn ảnh đại diện",
+  "crm.AddCustomerPage.themanh": "Thêm ảnh đại diện",
+  "crm.AddCustomerPage.chitiet": "Chi tiết thông tin",
+  "crm.AddCustomerPage.nguoidaidien": "Người đại diện",
+  "crm.AddCustomerPage.phanloaikhachhang": "Phân loại khách hàng",
+  "crm.AddCustomerPage.tuychon": "Tùy chọn",
+  "crm.AddCustomerPage.thongtindaumoi": "Thông tin người đầu mối",
+  "crm.AddCustomerPage.luu": "Lưu"
+}

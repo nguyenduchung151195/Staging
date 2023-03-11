@@ -1,0 +1,33 @@
+/*
+ *
+ * PropertiesPage constants
+ *
+ */
+
+export const DEFAULT_ACTION = 'app/PropertiesPage/DEFAULT_ACTION';
+
+export const RESET_NOTI = 'app/PropertiesPage/RESET_NOTI';
+
+export const FETCH_PROPERTIES_SET = 'app/PropertiesPage/FETCH_PROPERTIES_SET';
+export const FETCH_PROPERTIES_SET_SUCCESS = 'app/PropertiesPage/FETCH_PROPERTIES_SET_SUCCESS';
+export const FETCH_PROPERTIES_SET_FAILED = 'app/PropertiesPage/FETCH_PROPERTIES_SET_FAILED';
+
+export const FETCH_PROPERTIES_GROUP = 'app/PropertiesPage/FETCH_PROPERTIES_GROUP';
+export const FETCH_PROPERTIES_GROUP_SUCCESS = 'app/PropertiesPage/FETCH_PROPERTIES_GROUP_SUCCESS';
+export const FETCH_PROPERTIES_GROUP_FAILED = 'app/PropertiesPage/FETCH_PROPERTIES_GROUP_FAILED';
+
+export const FETCH_PROPERTIES = 'app/PropertiesPage/FETCH_PROPERTIES';
+export const FETCH_PROPERTIES_SUCCESS = 'app/PropertiesPage/FETCH_PROPERTIES_SUCCESS';
+export const FETCH_PROPERTIES_FAILED = 'app/PropertiesPage/FETCH_PROPERTIES_FAILED';
+
+export const DELETE_PROPERTIE = 'app/PropertiesPage/DELETE_PROPERTIE';
+export const DELETE_PROPERTIE_SUCCESS = 'app/PropertiesPage/DELETE_PROPERTIE_SUCCESS';
+export const DELETE_PROPERTIE_FAILED = 'app/PropertiesPage/DELETE_PROPERTIE_FAILED';
+
+export const DELETE_PROPERTIES_GROUP = 'app/PropertiesPage/DELETE_PROPERTIES_GROUP';
+export const DELETE_PROPERTIES_GROUP_SUCCESS = 'app/PropertiesPage/DELETE_PROPERTIES_GROUP_SUCCESS';
+export const DELETE_PROPERTIES_GROUP_FAILED = 'app/PropertiesPage/DELETE_PROPERTIES_GROUP_FAILED';
+
+export const DELETE_PROPERTIES_SET = 'app/PropertiesPage/DELETE_PROPERTIES_SET';
+export const DELETE_PROPERTIES_SET_SUCCESS = 'app/PropertiesPage/DELETE_PROPERTIES_SET_SUCCESS';
+export const DELETE_PROPERTIES_SET_FAILED = 'app/PropertiesPage/DELETE_PROPERTIES_SET_FAILED';

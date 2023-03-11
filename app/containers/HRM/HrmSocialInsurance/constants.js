@@ -1,0 +1,29 @@
+/*
+ *
+ * SocialInsurancePage constants
+ *
+ */
+
+export const DEFAULT_ACTION = 'app/SocialInsurancePage/DEFAULT_ACTION';
+
+export const MERGE_DATA = 'app/SocialInsurancePage/MERGE_DATA';
+
+export const CREATE_SOCIALINSURANCE = 'app/SocialInsurancePage/CREATE_SOCIALINSURANCE';
+export const CREATE_SOCIALINSURANCE_SUCCESS = 'app/SocialInsurancePage/CREATE_SOCIALINSURANCE_SUCCESS';
+export const CREATE_SOCIALINSURANCE_FAILURE = 'app/SocialInsurancePage/CREATE_SOCIALINSURANCE_FAILURE';
+
+export const UPDATE_SOCIALINSURANCE = 'app/SocialInsurancePage/UPDATE_SOCIALINSURANCE';
+export const UPDATE_SOCIALINSURANCE_SUCCESS = 'app/SocialInsurancePage/UPDATE_SOCIALINSURANCE_SUCCESS';
+export const UPDATE_SOCIALINSURANCE_FAILURE = 'app/SocialInsurancePage/UPDATE_SOCIALINSURANCE_FAILURE';
+
+export const SHARE_INSURANCE_REQUEST = 'app/SocialInsurancePage/SHARE_INSURANCE_REQUEST';
+export const SHARE_INSURANCE_SUCCESS = 'app/SocialInsurancePage/SHARE_INSURANCE_SUCCESS';
+export const SHARE_INSURANCE_FAILED = 'app/SocialInsurancePage/SHARE_INSURANCE_FAILED';
+
+export const GET_INSURANCE_DATA_REQUEST = 'app/SocialInsurancePage/GET_INSURANCE_DATA_REQUEST';
+export const GET_INSURANCE_DATA_SUCCESS = 'app/SocialInsurancePage/GET_INSURANCE_DATA_SUCCESS';
+export const GET_INSURANCE_DATA_FAILED = 'app/SocialInsurancePage/GET_INSURANCE_DATA_FAILED';
+
+export const DELETE_SOCIALINSURANCE = 'app/SocialInsurancePage/DELETE_SOCIALINSURANCE';
+export const DELETE_SOCIALINSURANCE_SUCCESS = 'app/SocialInsurancePage/DELETE_SOCIALINSURANCE_SUCCESS';
+export const DELETE_SOCIALINSURANCE_FAILURE = 'app/SocialInsurancePage/DELETE_SOCIALINSURANCE_FAILURE';

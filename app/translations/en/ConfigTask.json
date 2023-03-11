@@ -1,0 +1,25 @@
+{
+  "task.ConfigTask.cauhinhcongviecduan": "Work/Project Configuration",
+  "task.ConfigTask.cauhinhkehoach": "Configuration Planer",
+  "task.ConfigTask.trangthaikhoitao": "Initialization status",
+  "task.ConfigTask.trangthaiduocthem": "Status Added",
+  "task.ConfigTask.trangthaihoanthanh": "Status Completed",
+  "task.ConfigTask.trangthaithatbai": "State Of Failure",
+  "task.ConfigTask.suatrangthai": "Fix Status",
+  "task.ConfigTask.themtrangthai": "Add Status",
+  "task.ConfigTask.themmoi": "Add",
+  "task.ConfigTask.tentrangthai": "Status Name",
+  "task.ConfigTask.code": "Code",
+  "task.ConfigTask.mausac": "Color",
+
+  "task.ConfigTask.planer": "Plan status",
+  "task.ConfigTask.kanban": "Kanban status",
+  "task.ConfigTask.tasktype": "Job type status",
+  "task.ConfigTask.gantt": "Gantt config",
+  "task.ConfigTask.statusname": "Status Name",
+  "task.ConfigTask.notempty": "The field not be empty",
+  "task.ConfigTask.color": "Color",
+  "task.ConfigTask.nopermission": "You don't have permission",
+  "task.ConfigTask.askdelete":"Are you sure about it ?"
+
+}

@@ -1,0 +1,5 @@
+{
+    "app.container.Calendar.list": "List",
+    "app.container.Calendar.calendar": "Calendar",
+    "app.container.Calendar.kanban": "kanban"
+}

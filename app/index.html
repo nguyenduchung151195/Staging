@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- The first thing in any HTML file should be the charset -->
+  <meta charset="utf-8" />
+
+  <!-- Make the page mobile compatible -->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Allow installing the app to the homescreen -->
+  <meta name="mobile-web-app-capable" content="yes" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+  <link rel="icon" href="/favicon.ico" />
+  <link rel="stylesheet" href="https://cdn.dhtmlx.com/gantt/edge/dhtmlxgantt.css" type="text/css">
+  <title>ERP</title>
+  <script src="/appConfig.js"></script>
+  <script>
+    window.__MUI_USE_NEXT_TYPOGRAPHY_VARIANTS__ = true
+
+  </script>
+</head>
+
+<!-- Allow installing the app to the homescreen -->
+<meta name="mobile-web-app-capable" content="yes">
+
+<link rel="icon" href="/favicon.ico" />
+<title>ERP</title>
+<script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
+<script src="https://cdn.dhtmlx.com/gantt/edge/dhtmlxgantt.js"></script>
+<script src="https://export.dhtmlx.com/gantt/api.js"></script>
+
+
+<link rel="stylesheet" type="text/css" href="https://cdn3.devexpress.com/jslib/18.2.7/css/dx.common.css" />
+<!-- <link rel="stylesheet" type="text/css" href="https://cdn3.devexpress.com/jslib/18.2.7/css/dx.light.css" /> -->
+<link rel="stylesheet" type="text/css" href="https://cdn3.devexpress.com/jslib/18.2.7/css/dx.material.blue.light.css" />
+<link href="https://cdn.syncfusion.com/ej2/material.css" rel="stylesheet">
+<!-- <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" /> -->
+<link rel="stylesheet" href="https://unpkg.com/@progress/kendo-theme-material@latest/dist/all.css">
+</link>
+<!-- <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
+<style>
+  .bNLiNf {
+    margin: 0 !important;
+    padding-left: 4px !important;
+    margin-bottom: 16px !important;
+
+  }
+
+  .RgHZG {
+    border-left: 1px dashed rgba(255, 255, 255, .55) !important;
+    margin-top: 0px !important;
+    padding-top: 12px !important;
+    margin-bottom: 16px !important;
+
+  }
+
+  input[type=number]::-webkit-inner-spin-button,
+  input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+  }
+
+  input[type=number] {
+    -moz-appearance: textfield;
+  }
+
+  .RgHZG::-webkit-scrollbar {
+    width: 6px;
+    /* background-color:  #e6e6ea; */
+
+  }
+
+  .RgHZG::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .RgHZG::-webkit-scrollbar-thumb {
+    background: #dde2e6;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: .4;
+    -webkit-transition: .2s;
+    transition: .2s;
+  }
+
+  .smooth-dnd-container {
+    height: 100%;
+    padding-bottom: 50px;
+  }
+
+  .ldTdwW {
+    height: 100% !important;
+  }
+
+  .ldTdwW::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .ldTdwW::-webkit-scrollbar {
+    height: 6px;
+  }
+
+  .ldTdwW::-webkit-scrollbar-thumb {
+    background: #dde2e6;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: .4;
+    -webkit-transition: .2s;
+    transition: .2s;
+  }
+
+  .dx-texteditor.dx-editor-filled .dx-texteditor-input,
+  .dx-texteditor.dx-editor-outlined .dx-texteditor-input {
+    padding: 0 12px !important;
+  }
+
+  .e-create-link {
+    font-size: 14px;
+  }
+
+  .e-create-link::before {
+    content: '\e34e';
+  }
+  .e-create-view {
+    font-size: 14px;
+  }
+
+  .e-create-view::before {
+    content: '\e345';
+  }
+
+  .e-sub-total::before {
+    content: '\e709';
+  }
+
+  /* .e-list-icon.e-fe-folder {
+    width: 128px !important;
+    height: 128px !important;
+  } */
+
+  /* .e-list-img {
+    max-height: 128px !important;
+    margin: 10px auto !important;
+  } */
+
+  .e-list-item {
+    height: auto !important;
+    width: auto !important;
+  }
+
+  .e-list-text {
+    width: 100% !important;
+    max-width: 128px !important;
+  }
+</style>
+</head>
+
+<body dir="ltr">
+  <!-- Display a message if JS has been disabled on the browser. -->
+  <noscript>If you're seeing this message, that means
+    <strong>JavaScript has been disabled on your browser</strong>, please
+    <strong>enable JS</strong> to make this app work.</noscript>
+
+  <!-- The app hooks into this div -->
+  <div id="app"></div>
+  <!-- A lot of magic happens in this file. HtmlWebpackPlugin automatically injects all assets (e.g. bundle.js, main.css) with the correct HTML tags, which is why they are missing in this file. Don't add any assets here! (Check out webpack.dev.babel.js and webpack.prod.babel.js if you want to know more) -->
+</body>
+
+<!-- The app hooks into this div -->
+<div id="app"></div>
+<div id='tryit-jssip-container'></div>
+<div id='tryit-jssip-media-query-detector'></div>
+<!-- A lot of magic happens in this file. HtmlWebpackPlugin automatically injects all assets (e.g. bundle.js, main.css) with the correct HTML tags, which is why they are missing in this file. Don't add any assets here! (Check out webpack.dev.babel.js and webpack.prod.babel.js if you want to know more) -->
+</body>
+<!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+  integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script> -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+  integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+<!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> -->
+
+
+</html>

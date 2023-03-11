@@ -1,0 +1,19 @@
+.HearderappBarRecuitement {
+  /* width: 100% !important; */
+  z-index: 10002 !important;
+}
+/* .BTNDBNSP {
+  margin-left: 15% !important;
+} */
+.CustomForm label {
+  color: #000;
+  font-weight: 500;
+}
+.CustomForm div div div label {
+  color: #000 !important;
+  font-weight: 500;
+}
+.CustomForm div div label {
+  color: #000 !important;
+  font-weight: 500;
+}

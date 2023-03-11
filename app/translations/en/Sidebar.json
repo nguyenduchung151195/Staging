@@ -1,0 +1,63 @@
+{
+    "app.components.Sidebar.personalpage" : "Personal Page",
+    "app.components.Sidebar.profile" : "Profile",
+    "app.components.Sidebar.update": "Update",
+    "app.components.Sidebar.logout": "Logout",
+    
+
+    "app.components.Sidebar.filingcabinets": "Filing cabinets",
+    "app.components.Sidebar.delivery": "Delivery",
+    "app.components.Sidebar.internalfinance": "Internal finance",
+    "app.components.Sidebar.reports": "Reports",
+    "app.components.Sidebar.dashboard": "dashboard",
+
+    "app.components.Sidebar.jobproject": "Job/Project",
+    "app.components.Sidebar.sampleprocess": "Sample Process",
+    "app.components.Sidebar.configtask": "Config",
+
+    "app.components.Sidebar.crm":"crm",
+    "app.components.Sidebar.salespolicy":"Cales policy",
+    "app.components.Sidebar.customer":" Customer",
+    "app.components.Sidebar.supplier":"Cupplier",
+    "app.components.Sidebar.config":"Config",
+    "app.components.Sidebar.multichannelsales":"Multi-channel sales",
+
+    "app.components.Sidebar.hrm":"hrm",
+    "app.components.Sidebar.hrrecords":"HR Records",
+    "app.components.Sidebar.salary":" Salary",
+    "app.components.Sidebar.recruitment":"Recruitment",
+    "app.components.Sidebar.educate":"Educate",
+    "app.components.Sidebar.socialinsurance":"Social insurance",
+
+    "app.components.Sidebar.stock": "Stock",   
+    "app.components.Sidebar.listofproduct": "List of product",
+    "app.components.Sidebar.stockimport": "Stock import",
+    "app.components.Sidebar.stockexport": "Stock Export",
+    "app.components.Sidebar.stockconfig": "Stock config",
+
+    "app.components.Sidebar.documentary": "Documentary",
+    "app.components.Sidebar.incomingdispatch": "Incoming dispatch",
+    "app.components.Sidebar.officialdispatchgo": "Official dispatch go",
+
+    "app.components.Sidebar.calender": "Calendar",
+    "app.components.Sidebar.meetingschedule": "Meeting Schedule",
+    "app.components.Sidebar.workingschedule": "Working Schedule",
+    "app.components.Sidebar.meetingroom": "Meeting rooms",
+
+    "app.components.Sidebar.bsckpi": "BSC & KPI",
+    "app.components.Sidebar.criteria&plans": "Criteria & Plans",
+    "app.components.Sidebar.scoreconverttable": "Score convert table",
+    "app.components.Sidebar.projectkpi": "Project KPI",
+    "app.components.Sidebar.managereviews": "Manage reviews",
+    "app.components.Sidebar.kpiconfig": "KPI configuration",
+
+    "app.components.Sidebar.settings": "Settings",
+    "app.components.Sidebar.systemconfig": "System config",
+    "app.components.Sidebar.template": "Template",
+    "app.components.Sidebar.approvegroup": "Approve Group",
+    "app.components.Sidebar.emailsms": "Email-SMS",
+    "app.components.Sidebar.users": "Users",
+    "app.components.Sidebar.properties": "Properties"
+
+}
+  

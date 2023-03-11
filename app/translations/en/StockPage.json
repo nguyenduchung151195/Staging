@@ -1,0 +1,13 @@
+{
+  "app.containers.StockPage.kho": "Kho",
+  "app.containers.StockPage.chungLoai": "Species",
+  "app.containers.StockPage.tatCaChungLoai": "All of species",
+  "app.containers.StockPage.danhSach": "List",
+  "app.containers.StockPage.duoiHanMuc": "Under level",
+  "app.containers.StockPage.trenHanMuc": "Upper level",
+  "app.containers.StockPage.laDichVu": "Is service",
+  "app.containers.StockPage.thuongHieu": "Brand",
+  "app.containers.StockPage.tatCaThuongHieu": "All of brand",
+  "app.containers.StockPage.groupProduct": "Product Group",
+  "app.containers.StockPage.tatCaCacNhom": "All product group"
+}

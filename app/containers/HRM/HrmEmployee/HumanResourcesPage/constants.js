@@ -1,0 +1,11 @@
+export const GET_HUMAN_RESOURCE = 'app/HumanResourcesPage/GET_HUMAN_RESOURCE';
+export const GET_HUMAN_RESOURCE_SUCCESS = 'app/HumanResourcesPage/GET_HUMAN_RESOURCE_SUCCESS';
+export const GET_HUMAN_RESOURCE_FAILURE = 'app/HumanResourcesPage/GET_HUMAN_RESOURCE_FAILURE';
+
+export const UPDATE_HUMAN_RESOURCE = 'app/HumanResourcesPage/UPDATE_HUMAN_RESOURCE';
+export const UPDATE_HUMAN_RESOURCE_SUCCESS = 'app/HumanResourcesPage/UPDATE_HUMAN_RESOURCE_SUCCESS';
+export const UPDATE_HUMAN_RESOURCE_FAILURE = 'app/HumanResourcesPage/UPDATE_HUMAN_RESOURCE_FAILURE';
+
+export const ADD_HUMAN_RESOURCE = 'app/HumanResourcesPage/ADD_HUMAN_RESOURCE';
+export const ADD_HUMAN_RESOURCE_SUCCESS = 'app/HumanResourcesPage/ADD_HUMAN_RESOURCE_SUCCESS';
+export const ADD_HUMAN_RESOURCE_FAILURE = 'app/HumanResourcesPage/ADD_HUMAN_RESOURCE_FAILURE';

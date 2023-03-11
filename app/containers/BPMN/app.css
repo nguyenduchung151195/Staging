@@ -1,0 +1,92 @@
+/* COLOR PICKER */
+
+/* context pad */
+.djs-context-pad .entry {
+  background-color: rgba(255, 255, 255, 0.6);
+  box-shadow: 0 0 2px 1px rgba(255, 255, 255, 0.6);
+}
+
+/* color popup menu */
+[class^='color-icon-']:before,
+[class*=' color-icon-']:before {
+  display: inline-block;
+  content: '';
+  width: 1.5em;
+  height: 0.6em;
+  border-radius: 0.1em;
+  border: 0.03em solid black;
+}
+
+.color-icon-clear:before {
+  background-color: white;
+  border-color: black;
+}
+
+.color-icon-blue:before {
+  background-color: #bbdefb;
+  border-color: #1e88e5;
+}
+
+.color-icon-orange:before {
+  background-color: #ffe0b2;
+  border-color: #fb8c00;
+}
+
+.color-icon-green:before {
+  background-color: #c8e6c9;
+  border-color: #43a047;
+}
+
+.color-icon-red:before {
+  background-color: #ffcdd2;
+  border-color: #fb8c00;
+}
+
+.color-icon-purple:before {
+  background-color: #e1bee7;
+  border-color: #8e24aa;
+}
+
+/* transparancy for shapes with colors */
+/* .color-transparancy {
+  fill-opacity: 0.5;
+} */
+/* tat icon */
+.bjs-powered-by {
+  display: none;
+}
+
+/* .c__hide {
+  display: none;
+} */
+/* chinh width input */
+#camunda-id {
+  width: 86% !important;
+}
+#cam-condition-type {
+  width: 86% !important;
+}
+#cam-condition {
+  width: 86% !important;
+}
+#bpp-select {
+  width: 86% !important;
+}
+#camunda-name {
+  width: 86% !important;
+}
+#camunda-documentation {
+  width: 86% !important;
+}
+.clear {
+  height: 26px !important;
+}
+
+.bpp-properties-panel {
+  background-color: #ffffff;
+}
+.bpmn-p-p {
+  overflow: scroll !important;
+  overflow-x: hidden !important ;
+}
+

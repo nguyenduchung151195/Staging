@@ -1,0 +1,16 @@
+{
+  "crm.SalesQuotations.baogiabanhang": "Sales Quotations",
+  "crm.SalesQuotations.donhangthanhcong": "Order successful",
+  "crm.SalesQuotations.danhsach": "List",
+  "crm.SalesQuotations.xuatfile": "Export file",
+  "crm.SalesQuotations.bieumau": "Form",
+  "crm.SalesQuotations.thuchien": "Perform",
+  "crm.SalesQuotations.yeucaupheduyet": "Request Approval",
+  "crm.SalesQuotations.ten": "Name",
+  "crm.SalesQuotations.nhompheduyet": "Dynamic approval group",
+  "crm.SalesQuotations.chonbieumau": "Select form",
+  "crm.SalesQuotations.hoanthanhdonhang": "Complete the order",
+  "crm.SalesQuotations.guimailbaogia": "Send mail-Quotation",
+  "crm.SalesQuotations.hopdong": "Contract",
+  "crm.SalesQuotations.yeucauxuathang": "Requesting shipment"
+}

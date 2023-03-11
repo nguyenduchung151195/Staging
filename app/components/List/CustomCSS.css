@@ -1,0 +1,71 @@
+/* ListTask */
+.CustomListTask table thead tr th span {
+  color: #1d1d1f !important;
+  opacity: 0.9;
+}
+.CustomListTask table thead tr {
+  padding: 0;
+  height: 0;
+}
+.CustomListTask table thead tr th {
+  padding: 0;
+}
+.CustomListTask table thead tr th span :hover {
+  color: black !important;
+  opacity: 1;
+}
+
+.CustomListTask table tbody tr td {
+  color: #1d1d1f !important;
+  padding: 0;
+}
+.CustomListTask {
+  color: #1d1d1f;
+}
+.CustomIconListTask {
+  color: #2196f3 !important ;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: #fff;
+  border: 'none';
+}
+
+.CustomIconListTask:hover {
+  background: #2196f3;
+  border-radius: 20px;
+  width: 40px;
+  height: 40px;
+}
+.CustomIconListTask:hover {
+  color: #fff !important;
+}
+
+.CustomListTask table thead tr th span span input {
+  width: 0 !important;
+}
+
+/* ListPage */
+.CustomlistTable table thead tr th {
+  color: #1d1d1f !important;
+  opacity: 0.9;
+  padding: 0 !important;
+}
+
+.CustomlistTable table thead tr th :hover {
+  color: black !important;
+  opacity: 1;
+}
+
+.CustomlistTable table tbody tr td {
+  color: #1d1d1f !important;
+  padding: 0;
+}
+
+.CustomlistTable table thead tr th span span input {
+  width: 0 !important;
+}

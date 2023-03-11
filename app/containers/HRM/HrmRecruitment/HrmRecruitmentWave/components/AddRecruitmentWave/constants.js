@@ -1,0 +1,13 @@
+/*
+ *
+ * AddRecruitmentWave constants
+ *
+ */
+
+export const DEFAULT_ACTION = 'app/AddRecruitmentWave/DEFAULT_ACTION';
+export const CREATE_RECRUITMENTMANAGEMENT = 'app/RecruitmentManagementPage/CREATE_RECRUITMENTMANAGEMENT';
+export const CREATE_RECRUITMENTMANAGEMENT_SUCCESS = 'app/RecruitmentManagementPage/CREATE_RECRUITMENTMANAGEMENT_SUCCESS';
+export const CREATE_RECRUITMENTMANAGEMENT_FAILURE = 'app/RecruitmentManagementPage/CREATE_RECRUITMENTMANAGEMENT_FAILURE';
+export const POST_SWITCH_CANDIDATE = 'app/RecruitmentWavePage/POST_SWITCH_CANDIDATE_IDS';
+export const POST_SWITCH_CANDIDATE_SUCCESS = 'app/RecruitmentWavePage/POST_SWITCH_CANDIDATE_IDS_SUCCESS';
+export const POST_SWITCH_CANDIDATE_FAILURE = 'app/RecruitmentWavePage/POST_SWITCH_CANDIDATE_IDS_FAILURE';

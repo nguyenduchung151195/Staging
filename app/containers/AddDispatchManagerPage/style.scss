@@ -1,0 +1,35 @@
+.appBar {
+  position: relative !important;
+}
+
+.title {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.root {
+  width: 90%;
+}
+
+.textField {
+  width: 90% !important;
+  margin: 8px auto !important;
+}
+
+.HearderappBarCV {
+  width: 86.5% !important;
+  z-index: 1030 !important;
+}
+
+.BTNCV {
+  // margin-left: 15% !important;
+}
+
+.HearderappBarCVD {
+  width: 86.5% !important;
+  z-index: 1030 !important;
+}
+
+.dx-texteditor-container {
+  line-height: 8px;
+}

@@ -1,0 +1,89 @@
+.note-container {
+    position: fixed;
+    /* height: 60px;
+    width: 60px; */
+    background:transparent;
+    z-index: 1300;
+    /* border-radius: 999px; */
+    bottom: 20px;
+    left: 20px;
+    display: flex;
+
+}
+.note-main-content {
+    padding:10px;
+    height: 80vh;
+    overflow: auto;
+}
+.note-main-add {
+    display:flex;
+    /* justify-content: flex-end; */
+    padding:15px 0px;
+    flex-direction: column;
+}
+.note-main-add > span {
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+}
+.note-main-add textarea {
+    padding-left: 15px;
+    width: 100%;
+}
+.note-main-item-content {
+    font-size: 1rem;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:5px 0px;
+    font-family: cursive, Arial, Helvetica, sans-serif;
+}
+.spchat {
+    top: 2px;
+    right: -4px;
+    color: #FFFFFF;
+    border: 1px solid #FFF;
+    height: 16px;
+    display: block;
+    position: absolute;
+    font-size: 9px;
+    min-width: 25px;
+    background: #f44336;
+    text-align: center;
+    line-height: 14px;
+    border-radius: 10px;
+    vertical-align: middle;
+}
+
+.sp-group-chat{
+    color: #FFFFFF;
+    border: 1px solid #FFF;
+    height: 16px;
+    display: block;
+    /* position: absolute; */
+    font-size: 9px;
+    min-width: 25px;
+    background: #f44336;
+    text-align: center;
+    line-height: 14px;
+    border-radius: 10px;
+    vertical-align: middle;
+}
+
+.sp-user-chat{
+    margin-top:-35px;
+    margin-left: 20px;
+    color: #FFFFFF;
+    border: 1px solid #FFF;
+    height: 16px;
+    display: block;
+    position: absolute;
+    font-size: 9px;
+    min-width: 25px;
+    background: #f44336;
+    text-align: center;
+    line-height: 14px;
+    border-radius: 10px;
+    vertical-align: middle;
+}

@@ -1,0 +1,71 @@
+{
+    "app.components.Header.personalpage" : "Personal Page",
+    "app.components.Header.profile" : "Profile",
+    "app.components.Header.update": "Update",
+    "app.components.Header.logout": "Logout",
+
+    "app.components.Header.filingcabinets": "Filing cabinets",
+
+    "app.components.Header.delivery": "Delivery",
+    "app.components.Header.internalfinance": "Internal finance",
+    
+    "app.components.Header.reports": "Reports",
+    "app.components.Header.dashboard": "Dashboard",
+
+    "app.components.Header.jobproject": "Job/Project",
+    "app.components.Header.sampleprocess": "Sample Process",
+    "app.components.Header.configtask": "Config",
+
+    "app.components.Header.crm":"Business Opportunities",
+    "app.components.Header.salespolicy":"sales policy",
+    "app.components.Header.customer":" customer",
+    "app.components.Header.supplier":"supplier",
+    "app.components.Header.config":"config",
+    "app.components.Header.multichannelsales":"Multi-channel sales",
+
+    "app.components.Header.hrm":"hrm",
+    "app.components.Header.hrrecords":"HR Records",
+    "app.components.Header.salary":" Salary",
+    "app.components.Header.recruitment":"Recruitment",
+    "app.components.Header.educate":"Educate",
+    "app.components.Header.socialinsurance":"Social insurance",
+
+    "app.components.Header.stock": "Stock",   
+    "app.components.Header.listofproduct": "List of product",
+    "app.components.Header.stockimport": "stock import ",
+    "app.components.Header.stockexportpage": "Stock Export",
+    "app.components.Header.stockconfig": "Stock config",
+
+    "app.components.Header.documentary": "Documentary",
+    "app.components.Header.incomingdispatch": "Incoming dispatch",
+    "app.components.Header.officialdispatchgo": "Official dispatch go",
+
+    "app.components.Header.calender": "Calendar",
+    "app.components.Header.meetingschedule": "Meeting Schedule",
+    "app.components.Header.workingschedule": "Working Schedule",
+    "app.components.Header.meetingroom": "Meeting rooms",
+
+    "app.components.Header.bsckpi": "BSC & KPI",
+    "app.components.Header.criteria&plans": "Criteria & Plans",
+    "app.components.Header.scoreconverttable": "Score convert table",
+    "app.components.Header.projectkpi": "Project KPI",
+    "app.components.Header.managereviews": "Manage reviews",
+    "app.components.Header.kpiconfig": "KPI configuration",
+
+    "app.components.Header.settings": "Settings",
+    "app.components.Header.systemconfig": "System config",
+    "app.components.Header.template": "Template",
+    "app.components.Header.approvegroup": "Approve Group",
+    "app.components.Header.emailsms": "Email-SMS",
+    "app.components.Header.users": "Users",
+    "app.components.Header.properties": "Properties",
+
+    "app.components.Header.businessopportunities" : "Business opportunities",
+    "app.components.Header.exchangeofagreement" : "Exchange of agreement",
+    "app.components.Header.costestimates" : "Cost estimates",
+    "app.components.Header.salesquotation" : "Quotation/Sales",
+    "app.components.Header.contract" : "Contract",
+    "app.components.Header.bill" : "Bill",
+    "app.components.Header.purchase" : "Purchase(PO)"
+}
+  

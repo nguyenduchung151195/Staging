@@ -1,0 +1,33 @@
+/*
+ *
+ * EducatePage constants
+ *
+ */
+
+export const DEFAULT_ACTION = 'app/EducatePage/DEFAULT_ACTION';
+
+export const CREATE_EDUCATE = 'app/EducatePage/CREATE_EDUCATE';
+export const CREATE_EDUCATE_SUCCESS = 'app/EducatePage/CREATE_EDUCATE_SUCCESS';
+export const CREATE_EDUCATE_FAILURE = 'app/EducatePage/CREATE_EDUCATE_FAILURE';
+
+export const UPDATE_EDUCATE = 'app/EducatePage/UPDATE_EDUCATE';
+export const UPDATE_EDUCATE_SUCCESS = 'app/EducatePage/UPDATE_EDUCATE_SUCCESS';
+export const UPDATE_EDUCATE_FAILURE = 'app/EducatePage/UPDATE_EDUCATE_FAILURE';
+
+export const DELETE_EDUCATE = 'app/EducatePage/DELETE_EDUCATE';
+export const DELETE_EDUCATE_SUCCESS = 'app/EducatePage/DELETE_EDUCATE_SUCCESS';
+export const DELETE_EDUCATE_FAILURE = 'app/EducatePage/DELETE_EDUCATE_FAILURE';
+
+
+// khóa đào tạo
+export const CREATE_EDUCATE_ROUND = 'app/EducatePage/CREATE_EDUCATE_ROUND';
+export const CREATE_EDUCATE_ROUND_SUCCESS = 'app/EducatePage/CREATE_EDUCATE_ROUND_SUCCESS';
+export const CREATE_EDUCATE_ROUND_FAILURE = 'app/EducatePage/CREATE_EDUCATE_ROUND_FAILURE';
+
+export const UPDATE_EDUCATE_ROUND = 'app/EducatePage/UPDATE_EDUCATE_ROUND';
+export const UPDATE_EDUCATE_ROUND_SUCCESS = 'app/EducatePage/UPDATE_EDUCATE_ROUND_SUCCESS';
+export const UPDATE_EDUCATE_ROUND_FAILURE = 'app/EducatePage/UPDATE_EDUCATE_ROUND_FAILURE';
+
+export const DELETE_EDUCATE_ROUND = 'app/EducatePage/DELETE_EDUCATE_ROUND';
+export const DELETE_EDUCATE_ROUND_SUCCESS = 'app/EducatePage/DELETE_EDUCATE_ROUND_SUCCESS';
+export const DELETE_EDUCATE_ROUND_FAILURE = 'app/EducatePage/DELETE_EDUCATE_ROUND_FAILURE';

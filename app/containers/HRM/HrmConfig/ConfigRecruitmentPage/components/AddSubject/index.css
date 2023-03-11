@@ -1,0 +1,10 @@
+.CustomTextRequired label {
+  font-weight: 600;
+  color: #000 !important;
+}
+.CustomText label {
+  color: #000 !important;
+}
+.CustomText div div label {
+  color: #000 !important;
+}

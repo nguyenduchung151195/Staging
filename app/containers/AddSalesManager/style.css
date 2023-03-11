@@ -1,0 +1,92 @@
+.form.form__select {
+  padding: 0px 10px;
+  border: 0.25px solid #868181;
+  height: 40px;
+  width: 100%;
+  transform: translateY(-1px);
+}
+.form__select label + div {
+  margin-top: 2px;
+  height: 100%;
+}
+.form__select label {
+  transform: translate(14px, 15px) scale(1);
+  background-color: #f1f1f1;
+}
+.form__select div::before,
+.form__select div:hover::before {
+  border-bottom: none;
+}
+.mr2 {
+  margin-right: 10px;
+}
+
+.reportStyle,
+.reportStyle div,
+.reportStyle div div,
+.reportEmployeeStyle,
+.reportEmployeeStyle div,
+.reportEmployeeStyle div div {
+  height: 40px;
+  margin: 0;
+}
+.reportStyle div div fieldset {
+  border-radius: 0;
+  transform: translateY(-1px);
+  border-color: #868181 !important;
+  border: 0.25px solid #868181;
+}
+.reportStyle div div div {
+  height: 100%;
+  margin: 0;
+  padding: 2px 3px;
+  box-sizing: border-box;
+  font-size: 14px;
+  text-transform: uppercase;
+  align-self: center;
+}
+.reportEmployeeStyle div div div {
+  margin: 0;
+  font-size: 14px;
+  margin-left: 2px;
+}
+.reportEmployeeStyle div div span + div + div {
+  height: auto;
+}
+.reportEmployeeStyle div div span + div + div div {
+  height: auto;
+}
+.reportEmployeeStyle div div div fieldset {
+  border-color: #868181 !important;
+  border-radius: 0;
+  border: 0.25px solid #868181;
+  transform: translateY(-1px);
+}
+.reportEmployeeStyle div div div p {
+  font-size: 14px;
+}
+.reportEmployeeStyle div div div div svg {
+  transform: translateY(-4px);
+}
+.reportEmployeeStyle div div div label {
+  text-transform: normal;
+}
+.dateStyle {
+  height: 40px;
+  margin: 3px 0 1px 1px !important;
+}
+.dateStyle div {
+  height: 100%;
+  font-size: 14px;
+  transform: translateY(-1px);
+}
+.dateStyle div fieldset {
+  border-radius: 0;
+  transform: translateY(-1px);
+  border-color: #868181 !important;
+  border: 0.25px solid #868181;
+}
+.dateStyle div input {
+  height: 100%;
+  padding-top: 18px;
+}

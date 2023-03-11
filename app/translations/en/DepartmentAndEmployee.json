@@ -1,0 +1,7 @@
+{
+    "app.components.DepartmentAndEmployee.seaching" : "Seaching",
+    "app.components.DepartmentAndEmployee.resultnotfound" : "Result not found",
+    "app.components.DepartmentAndEmployee.employee" : "Employee",
+    "app.components.DepartmentAndEmployee.selected" : "----Selected----",
+    "app.components.DepartmentAndEmployee.department" : "Department"
+}

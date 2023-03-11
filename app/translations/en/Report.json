@@ -1,0 +1,11 @@
+{
+    "app.container.Report.report" : "Report",
+    "app.container.Report.synthesisreport" : "Synthesis Report",
+    "app.container.Report.plan" : "Plan",
+    "app.container.Report.businessopportunityreporting" : "Business opportunity reporting",
+    "app.container.Report.aggregateinventoryvalue" : "Aggregate inventory value",
+    "app.container.Report.aggregatecostbydeparmentanditem" : "Aggregate cost by deparment & item",
+    "app.container.Report.aggregatesalesbycustomeranditem" : "Aggregate sales by customer & item",
+    "app.container.Report.aggregatesalesbysalesstaff" : "Aggregate sales by sales staff",
+    "app.container.Report.generalbusinesssituation" : "General business situation"
+}

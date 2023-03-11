@@ -1,0 +1,28 @@
+.custom-swal {
+  z-index: 3;
+  max-width: 600px;
+  width: auto;
+  height: auto;
+  max-height: 600px;
+}
+
+.swal-overlay {
+  z-index: 1300;
+}
+
+.swal-document {
+  // max-height: 75vh;
+  // max-width: 75vw;
+  width: 80vw;
+  height: 75vh;
+}
+
+.e-filemanager .e-address .e-search-wrap .e-input-group .e-input {
+  margin: -10px 0 0 24px;
+  padding: 0;
+  height: 30px;
+}
+
+.e-clear-icon {
+  margin-top: -4px !important;
+}

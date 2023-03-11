@@ -1,0 +1,16 @@
+{
+    "app.container.PersonalPage.hrrecords": "HR Records",
+    "app.container.PersonalPage.humanresources": "Human resources",
+    "app.container.PersonalPage.yearlicensemanagement": "HR Records",
+    "app.container.PersonalPage.hrreports": "HR Reports",
+    "app.container.PersonalPage.increasesordecreases": "Increases or Decreases",
+    "app.container.PersonalPage.timekeeping": "Timekeeping",
+    "app.container.PersonalPage.managesalary": "Manage Salary",
+    "app.container.PersonalPage.salary": "Salary",
+    "app.container.PersonalPage.ottime": "OT Management",
+    "app.container.PersonalPage.takeleave": "Take Leave Management",
+    "app.container.PersonalPage.recruitment": "Recruitment",
+    "app.container.PersonalPage.managerecruitmentneeds": "Manage recruitment needs",
+    "app.container.PersonalPage.training": "Training",
+    "app.container.PersonalPage.manageeducate": "Manage Educate"
+}

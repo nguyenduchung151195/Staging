@@ -1,0 +1,9 @@
+.avatar img {
+    object-fit: contain ;
+}
+.select:hover{
+    border: none;
+}
+.FormControl:hover{
+    border: 1px salmon solid;
+}
